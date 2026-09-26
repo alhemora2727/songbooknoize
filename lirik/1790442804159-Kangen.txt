@@ -1,0 +1,2 @@
+Hey, ini API key Agent Router saya: sk-WNiZkLzsA0nHO4xFCESbactn4rUfW9BtRxBYwSoDpQKBS8m9
+Tolong ubah konfigurasi agar sesi Claude Code ini menggunakan API key tersebut dan arahkan Base URL-nya ke server AgentRouter di https://agentrouter.org/docs/index.html Silakan buka dokumentasi mereka di https://agentrouter.org jika diperlukan untuk melihat variabel lingkungan atau nama model yang tersedia (seperti Opus atau Sonnet).
